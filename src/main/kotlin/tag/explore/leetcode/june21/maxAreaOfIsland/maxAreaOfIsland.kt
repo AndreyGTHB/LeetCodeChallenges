@@ -1,4 +1,4 @@
-package tag.expore.leetcode.june21.maxAreaOfIsland
+package tag.explore.leetcode.june21.maxAreaOfIsland
 
 fun main() {
     val sea = arrayOf(

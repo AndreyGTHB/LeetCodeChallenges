@@ -1,6 +1,4 @@
-package tag.expore.leetcode.topInterviewQuestions.easy.array.removeDuplicatesFromSortedArray
-
-import tag.expore.leetcode.toStr
+package tag.explore.leetcode.topInterviewQuestions.easy.array.removeDuplicatesFromSortedArray
 
 
 fun main() {

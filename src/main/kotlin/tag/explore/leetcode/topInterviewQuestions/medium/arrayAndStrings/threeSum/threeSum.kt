@@ -1,5 +1,5 @@
-package tag.expore.leetcode.topInterviewQuestions.medium.arrayAndStrings.threeSum
-import tag.expore.leetcode.toStr
+package tag.explore.leetcode.topInterviewQuestions.medium.arrayAndStrings.threeSum
+import tag.explore.leetcode.toStr
 
 
 fun main() {
